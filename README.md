@@ -17,13 +17,4 @@ In this tutorial, we will build a powerful online code editor using Next.js, Rea
 # Assets File
 Google Drive : https://drive.google.com/drive/folders/1477Xx3TTTbCN_Y_UA9vdIYQpHpSFyAxf?usp=sharing
 
-
-Personel Website : https://amitprajapati.co.in/
-
- <a href="https://www.linkedin.com/in/itsamitprajapati" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="amit prajapati"/>
- </a>
-
- Youtube : Dynamic Coding with Amit
-
  
